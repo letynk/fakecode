@@ -1,0 +1,128 @@
+body{
+	width:1200px;
+	height:100%;
+	padding-top: 10px;
+
+	font-family: Raleway;
+	margin-right: auto;
+    margin-left: auto;
+	background-image: url(/images/code.jpg);
+    background-size: cover;
+	font-family: 'Baloo Bhaijaan', cursive;
+	font-family: 'Anaheim', sans-serif;
+	font-size: 150%;
+
+}
+
+#navigationBar {
+	height:150px;
+	width:100%;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+#logo{
+	padding-top: 80px;
+	text-align: left;
+	display: block;
+	padding-bottom: 5px;
+	font-family: 'Wallpoet', cursive;	
+}
+
+ul{
+	text-align: right;	
+	margin-right: 5px;
+}
+
+li{
+	padding-top: 100px;
+	margin-left: 40px;
+	color: black;
+	display: inline-block;		
+}
+
+
+#paragraphSection{
+    padding-top:200px;
+    padding-bottom: 600px;
+	height: 250px;
+ 
+    text-align: center;
+    	
+}
+
+#clientSection{
+    text-align: center;
+    padding-top: 20px;
+	height: 950px;	
+}
+
+.packageImage{
+	margin-top: 10px;
+
+}
+
+#testimonialSection{
+	margin-top:100px;
+
+
+}
+
+
+#contactSection{
+	height: 1200px;
+	text-align: center;
+	padding-top: 300px;
+
+}
+
+input{
+	width: 200px;
+}
+button{
+	width:120px;
+	
+}
+
+h1{
+	padding-top: 15px;
+	padding-bottom:15px;
+}
+
+h2{
+	padding-top: 15px;
+	padding-bottom:0px;
+}
+
+p{
+	padding-bottom: 5px;
+}
+
+.icons{
+	width:25px;
+	margin-right: 25px;
+	
+}
+
+
+#clients-title{
+    text-align: center;
+}
+
+
+.contact-info{
+
+	text-align: left;
+}
+
+
+.comment{
+
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+
+.title{
+	padding-bottom: 30px;
+}
